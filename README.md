@@ -1,0 +1,1 @@
+Ce framework a été programmé pour GSB. Il est réutilisable dans d'autres projets sous licence apache 2.0.
